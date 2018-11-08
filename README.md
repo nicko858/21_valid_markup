@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-Пройдите по [ссылке](https://nicko858.github.io/), чтобы попасть на сайт.
+Пройдите по [ссылке](https://nicko858.github.io/21_valid_markup/), чтобы попасть на сайт.
 
 # Project Goals
 
