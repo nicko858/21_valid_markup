@@ -223,17 +223,17 @@ hr.small {
 /* Map */
 
 .map {
-    height: 500px;
+    height: 65%;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 
 @media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
-}
-
-.map iframe {
-    pointer-events: none;
+  .map {
+    height: 75%;
+  }
 }
 
 /* Footer */
